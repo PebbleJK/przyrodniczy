@@ -1,1 +1,5 @@
+HEAD
 Zmiana w branchu master
+
+zmiana w drugim branchu
+nowy-branch
